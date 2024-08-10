@@ -3,3 +3,7 @@ DataAugmentation
 CNN-based-endecoder를 이용하여 Noise를 준 이미지를 Input으로 넣어 새로운 이미지를 생성한다.
 GAN을 만들기 위한 Data 평탄화 과정 1이다.
 데이터가 부족한 경우 활용할 수 있는 방법이다. 
+
+결과로 만들어진 넘파이 데이터 셋은 다음과 같다.
+https://drive.google.com/file/d/1WXjodJ2OhLoyyvX7R6A1fNZ_0LLVRrQe/view?usp=sharing
+https://drive.google.com/file/d/11rt8VW4VEzCivNSoICRDq2xqYHuETOYm/view?usp=sharing
